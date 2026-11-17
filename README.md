@@ -1,1 +1,1 @@
-# journi-legal
+# kuria-legal
